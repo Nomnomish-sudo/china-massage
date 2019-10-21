@@ -1,0 +1,54 @@
+.img-logo{
+	max-width: 35%;
+	height: auto;
+}
+body{
+	background-color: #DE659C;
+}
+.container{
+	background-color: rgba(255,255,255,0.5);
+}
+.image-navbar-custom{
+	width: 150px;
+	height: auto;
+}
+.custom-header{
+	background-image: url('images/cherry_blossoms.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.about-us-img{
+	margin: 10px;
+}
+.sidebar-rule{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 85%;
+	height: 3px;
+	background-color: #c51867;
+}
+.main-body{
+	
+}
+.hours{
+	text-align: justify;
+}
+.centered{
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main-home-image{
+	width: 75%;
+	height: auto;
+}
+table{
+	width: 100%;
+	text-align: center;
+}
+th{
+	height: 50px;
+}
+body{
+	font-size: 18px;
+}
