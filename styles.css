@@ -33,7 +33,7 @@ body{
 	text-align: justify;
 }
 .centered{
-	text-align:center;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -50,4 +50,8 @@ th{
 }
 body{
 	font-size: 18px;
+}
+ul{
+	display: table;
+	margin: 0 auto;
 }
